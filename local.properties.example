@@ -1,0 +1,5 @@
+# Example local.properties for API credentials
+# Copy your actual credentials here before building the project.
+REST_COUNTRIES_TOKEN=
+GEONAMES_USERNAME=
+WEATHER_API_KEY=
